@@ -1,8 +1,6 @@
 {
-  "DefaultTemplate": "umb://template/af6a32b438844caabfd9f3d31d50454c",
-  "AllowedTemplates": [
-    "umb://template/af6a32b438844caabfd9f3d31d50454c"
-  ],
+  "DefaultTemplate": null,
+  "AllowedTemplates": [],
   "Icon": "icon-map-location color-black",
   "Thumbnail": "folder.png",
   "Description": null,
@@ -58,7 +56,7 @@
         {
           "Key": "3f31ea1f-3dc9-4135-833b-c5bf42c5903a",
           "Alias": "contactForm",
-          "DataType": "umb://data-type/f0bc4bfbb49940d6ba86058885a5178c",
+          "DataType": "umb://data-type/59accdfbe0e74ff2b8ab4822b78d2c64",
           "Description": "If Umbraco Forms is installed you'll be able to select a form",
           "Mandatory": false,
           "Name": "Pick a Contact Form",
@@ -115,12 +113,12 @@
       "Mode": 0
     },
     {
-      "Udi": "umb://data-type/ecbbac0d974e490cb533fead926dc525",
+      "Udi": "umb://data-type/59accdfbe0e74ff2b8ab4822b78d2c64",
       "Ordering": true,
       "Mode": 0
     },
     {
-      "Udi": "umb://data-type/f0bc4bfbb49940d6ba86058885a5178c",
+      "Udi": "umb://data-type/ecbbac0d974e490cb533fead926dc525",
       "Ordering": true,
       "Mode": 0
     },
@@ -131,11 +129,6 @@
     },
     {
       "Udi": "umb://document-type/a3524c717aef4be29475c9af22b4949c",
-      "Ordering": true,
-      "Mode": 0
-    },
-    {
-      "Udi": "umb://template/af6a32b438844caabfd9f3d31d50454c",
       "Ordering": true,
       "Mode": 0
     }
