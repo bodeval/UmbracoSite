@@ -1,8 +1,6 @@
 {
-  "DefaultTemplate": "umb://template/af6a32b438844caabfd9f3d31d50454c",
-  "AllowedTemplates": [
-    "umb://template/af6a32b438844caabfd9f3d31d50454c"
-  ],
+  "DefaultTemplate": null,
+  "AllowedTemplates": [],
   "Icon": "icon-map-location color-black",
   "Thumbnail": "folder.png",
   "Description": null,
@@ -131,11 +129,6 @@
     },
     {
       "Udi": "umb://document-type/a3524c717aef4be29475c9af22b4949c",
-      "Ordering": true,
-      "Mode": 0
-    },
-    {
-      "Udi": "umb://template/af6a32b438844caabfd9f3d31d50454c",
       "Ordering": true,
       "Mode": 0
     }

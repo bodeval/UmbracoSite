@@ -1,8 +1,6 @@
 {
-  "DefaultTemplate": "umb://template/6069e873701149feb686e390dcb97ab4",
-  "AllowedTemplates": [
-    "umb://template/6069e873701149feb686e390dcb97ab4"
-  ],
+  "DefaultTemplate": null,
+  "AllowedTemplates": [],
   "Icon": "icon-calendar color-black",
   "Thumbnail": "folder.png",
   "Description": null,
@@ -100,11 +98,6 @@
     },
     {
       "Udi": "umb://document-type/a3524c717aef4be29475c9af22b4949c",
-      "Ordering": true,
-      "Mode": 0
-    },
-    {
-      "Udi": "umb://template/6069e873701149feb686e390dcb97ab4",
       "Ordering": true,
       "Mode": 0
     }
